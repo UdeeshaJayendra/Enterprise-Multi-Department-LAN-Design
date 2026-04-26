@@ -36,7 +36,7 @@ A scalable and fault-tolerant enterprise network designed to support multiple de
 
 ## How to Run
 
-1. Download the `Campus_Network.pkt` file
+1. Download the `VLANs.pkt` file
 2. Open using **Cisco Packet Tracer (v8.2 or higher)**
 3. Verify configuration using:
 
