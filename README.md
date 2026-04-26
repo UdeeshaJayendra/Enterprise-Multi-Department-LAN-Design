@@ -49,7 +49,7 @@ show spanning-tree
 Enterprise-Multi-Department-LAN/
 │
 ├── README.md
-├── Campus_Network.pkt
+├── VLANs.pkt
 │
 ├── topology-screenshots/
    ├── topology.png
