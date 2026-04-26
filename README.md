@@ -2,7 +2,7 @@
 
 A scalable and fault-tolerant enterprise network designed to support multiple departments.
 
-## 🚀 Technologies Used
+## Technologies Used
 
 * **VLANs (Virtual LANs)** – Department-based segmentation
 * **VTP (VLAN Trunking Protocol)** – Centralized VLAN management
@@ -11,30 +11,30 @@ A scalable and fault-tolerant enterprise network designed to support multiple de
 * **Port Security** – Prevents unauthorized network access
 ---
 
-## 🛠️ Key Features
+## Key Features
 
-### 🧩 VLAN Segmentation
+### VLAN Segmentation
 
 * VLAN 10 – HR
 * VLAN 20 – ICT
 * VLAN 30 – Finance
 
-### 🔗 Redundancy with EtherChannel
+### Redundancy with EtherChannel
 
 * Combines multiple physical links into logical channels
 * Ensures high availability and failover
 
-### 🌐 Loop Prevention with STP
+### Loop Prevention with STP
 
 * Root bridge manually configured
 * Optimizes network traffic flow
 
-### 🔒 Port Security
+### Port Security
 
 * Limits MAC addresses per port
 * Protects against unauthorized devices
 
-## 📝 How to Run
+## How to Run
 
 1. Download the `Campus_Network.pkt` file
 2. Open using **Cisco Packet Tracer (v8.2 or higher)**
@@ -44,7 +44,7 @@ show vlan brief
 show etherchannel summary
 show spanning-tree
 
-## 📂 Project Structure
+## Project Structure
 
 Enterprise-Multi-Department-LAN/
 │
@@ -56,7 +56,7 @@ Enterprise-Multi-Department-LAN/
    ├── spanning-tree.png
    ├── etherchannel.png
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * Designed an enterprise-level LAN
 * Implemented VLAN-based segmentation
@@ -64,6 +64,6 @@ Enterprise-Multi-Department-LAN/
 * Optimized Layer 2 topology using STP
 * Applied port-level security controls
 
-## 🔗 Author
+## Author
 **Udeesha Jayendra**
 
