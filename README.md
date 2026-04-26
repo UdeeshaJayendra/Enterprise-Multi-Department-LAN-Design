@@ -44,18 +44,6 @@ show vlan brief
 show etherchannel summary
 show spanning-tree
 
-## Project Structure
-
-Enterprise-Multi-Department-LAN/
-│
-├── README.md
-├── VLANs.pkt
-│
-├── topology-screenshots/
-   ├── topology.png
-   ├── spanning-tree.png
-   ├── etherchannel.png
-
 ## Learning Outcomes
 
 * Designed an enterprise-level LAN
