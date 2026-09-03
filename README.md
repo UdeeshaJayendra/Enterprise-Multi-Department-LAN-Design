@@ -4,7 +4,7 @@ A scalable and fault-tolerant enterprise network designed to support multiple de
 
 ## Technologies Used
 
-* **VLANs (Virtual LANs)** – Department-based segmentation.
+* **VLANs (Virtual LANs)** – Department-based segmentation
 * **VTP (VLAN Trunking Protocol)** – Centralized VLAN management
 * **EtherChannel (LACP/PAgP)** – Link aggregation for redundancy and bandwidth improvement
 * **STP (Spanning Tree Protocol)** – Loop prevention and optimized path selection
