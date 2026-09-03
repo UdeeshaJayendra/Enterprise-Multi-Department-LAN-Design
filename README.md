@@ -1,6 +1,6 @@
 # 🏢 Enterprise Multi-Department LAN Design (Cisco Packet Tracer)
 
-A scalable and fault-tolerant enterprise network designed to support multiple departments.
+A scalable and fault-tolerant enterprise network designed to support multiple departments
 
 ## Technologies Used
 
